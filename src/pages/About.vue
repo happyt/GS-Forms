@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <h1>ABC</h1>
+    <h1>ABCD</h1>
     <p>Forms testing with Gridsome</p>
   </Layout>
 </template>
